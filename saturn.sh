@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar ~/Saturn/Saturn.jar $1
+java -jar ~/.Saturn/Saturn.jar $1
